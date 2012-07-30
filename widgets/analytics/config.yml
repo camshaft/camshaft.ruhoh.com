@@ -1,0 +1,7 @@
+layout : mixpanel
+google : 
+  tracking_id : 'UA-123-12'
+getclicky :
+  site_id :
+mixpanel :
+  token : '2b62d81e235016f3382f6017d5a089d3'
